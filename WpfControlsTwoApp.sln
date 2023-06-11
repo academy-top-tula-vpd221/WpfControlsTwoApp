@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33712.159
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfControlsTwoApp", "WpfControlsTwoApp\WpfControlsTwoApp.csproj", "{F138FC7A-690B-4E1E-B1DA-F9906E44C4D2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F138FC7A-690B-4E1E-B1DA-F9906E44C4D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F138FC7A-690B-4E1E-B1DA-F9906E44C4D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F138FC7A-690B-4E1E-B1DA-F9906E44C4D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F138FC7A-690B-4E1E-B1DA-F9906E44C4D2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {28A63933-D470-49A9-A219-5392A7954706}
+	EndGlobalSection
+EndGlobal
